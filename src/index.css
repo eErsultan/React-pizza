@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Proxima Nova";
+}
+.App {
+  background-color: #ffdf8c;
+  padding: 43px 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+p,
+h1 {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}

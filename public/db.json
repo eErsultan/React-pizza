@@ -1,0 +1,84 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "img": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/eacb0db2-b347-4da3-9463-f0c85cfb13d7.jpg",
+      "pizzaName": "Цыпленок ранч",
+      "price": 395,
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "category": 4,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/4aa06303-8287-4241-8684-b79d62db2773.jpg",
+      "pizzaName": "Ветчина и сыр",
+      "price": 450,
+      "types": [1],
+      "sizes": [26],
+      "category": 2,
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/3223aaa9-2112-4f45-b4c7-63f417dc8ac0.jpg",
+      "pizzaName": "Кисло-сладкий цыпленок",
+      "price": 290,
+      "types": [0],
+      "sizes": [30],
+      "category": 4,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/f90d4489-ccb1-4ddb-bda4-32efb5997ad8.jpg",
+      "pizzaName": "Крэйзи пепперони",
+      "price": 395,
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "category": 5,
+      "rating": 1
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/cc511b22-32c9-4cbf-93e4-9bf378e11098.jpg",
+      "pizzaName": "Креветки по-азиатски",
+      "price": 395,
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 6,
+      "img": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/34a71577-3288-42f7-ad64-e80fd2f4faa3.jpg",
+      "pizzaName": "Четыре сыра",
+      "price": 450,
+      "types": [0, 1],
+      "sizes": [26],
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/b1a39f41-8bae-4812-aad4-acff15c652ae.jpg",
+      "pizzaName": "Пицца-пирог",
+      "price": 290,
+      "types": [0],
+      "sizes": [30],
+      "category": 3,
+      "rating": 6
+    },
+    {
+      "id": 8,
+      "img": "https://cdn.dodostatic.net/static/Img/Products/Pizza/ru-RU/7e5c8d20-985a-4378-8f92-cecd3b7fc11c.jpg",
+      "pizzaName": "Сырный-цыпленок",
+      "price": 395,
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "category": 4,
+      "rating": 5
+    }
+  ]
+}
